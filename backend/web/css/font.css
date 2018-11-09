@@ -1,0 +1,16 @@
+@font-face{
+	font-family:'BYekan';
+
+	src:url('fonts/BYekan.eot?#') format('eot'),
+	url('fonts/BYekan.woff') format('woff'),
+	url('fonts/BYekan.ttf') format('truetype');
+}
+@font-face{
+	font-family:'BYekanNumbers';
+	src:url('fonts/BYekanNumbers.eot?#') format('eot'),
+	url('fonts/BYekanNumbers.woff') format('woff'),
+	url('fonts/BYekanNumbers.ttf') format('truetype');
+}
+/*body{*/
+	/*font:13px/25px "BYekan","BYekanNumbers";*/
+/*}*/
